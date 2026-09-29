@@ -1,7 +1,13 @@
-import express from 'express'
-const app = express()
-const PORT = process.env.PORT || 3001 
+import express from 'express';
+import cors from 'cors';
 
-app.get("/",(req,res)=>{
-    res.send("hello from the acquisitions microservice")
-})
+const app = express();
+
+app.use(cors());
+app.use(express.json());
+
+app.get('/', (req, res) => {
+  res.send('hello from the acquisitions microservice');
+});
+
+export default app;
