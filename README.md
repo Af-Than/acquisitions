@@ -20,3 +20,14 @@ info: ::1 - - [05/Oct/2026:16:36:51 +0000] "GET / HTTP/1.1" 200 40 "-" "Mozilla/
   │    │        └────────────────────────────────────────────────────── Timestamp
   │    └─────────────────────────────────────────────────────────────── Client IP Address (IPv6 Localhost)
   └──────────────────────────────────────────────────────────────────── Log Level
+
+
+
+  basically attaching the cookie to the HTTP such that it is secure and we bind the jwt token to the cookie so we do not have to send it each time if a user is logged in 
+
+
+  Think of Zod as an automated guard at the entrance of your backend.
+
+When building Node.js/Express APIs in plain JavaScript, your server receives raw data from users through req.body (like JSON from forms). If someone submits invalid or incomplete data, it can crash your server or corrupt your database.
+
+Zod gives you a simple way to define a blueprint (schema) of what your data must look like, check incoming data against that blueprint, and handle errors automatically.
