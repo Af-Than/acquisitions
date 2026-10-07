@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
   res.send('hello from the acquisitions microservice');
 });
 
-app.use('api/auth', (await import('#routes/auth.routes.js')).default);
+app.use('/api/auth', (await import('#routes/auth.routes.js')).default);
 app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', message: 'acquisitions microservice is healthy', timestamp: new Date() });
 });
