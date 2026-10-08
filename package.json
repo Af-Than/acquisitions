@@ -34,7 +34,13 @@
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio"
+    "db:studio": "drizzle-kit studio",
+    "docker:dev": "docker compose -f docker-compose.dev.yml --env-file .env.development up --build",
+    "docker:dev:down": "docker compose -f docker-compose.dev.yml down",
+    "docker:prod": "docker compose -f docker-compose.prod.yml --env-file .env.production up --build",
+    "docker:prod:down": "docker compose -f docker-compose.prod.yml down",
+    "test:traffic": "python web_traffic_simulator/api_traffic_tester.py",
+    "test:traffic:burst": "python web_traffic_simulator/api_traffic_tester.py 20 --burst"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

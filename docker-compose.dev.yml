@@ -1,0 +1,49 @@
+
+services:
+  # Neon Local proxy container
+  # Runs locally and handles proxying + ephemeral branch creation to Neon Cloud
+  neon-local:
+    image: neondatabase/neon_local:latest
+    container_name: acquisitions-neon-local
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      NEON_API_KEY: ${NEON_API_KEY}
+      NEON_PROJECT_ID: ${NEON_PROJECT_ID}
+      # Set PARENT_BRANCH_ID to automatically create an ephemeral branch for dev/testing
+      PARENT_BRANCH_ID: ${PARENT_BRANCH_ID:-main}
+    networks:
+      - app-network
+
+  # Application in Development Mode
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    container_name: acquisitions-app-dev
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      NODE_ENV: development
+      PORT: 3001
+      NEON_LOCAL: "true"
+      NEON_LOCAL_ENDPOINT: "http://neon-local:5432/sql"
+      DATABASE_URL: ${DATABASE_URL:-postgresql://neon:npg@neon-local:5432/neondb}
+      JWT_SECRET: ${JWT_SECRET:-dev-insecure-secret-key-change-me}
+      ARCJET_KEY: ${ARCJET_KEY:-}
+      ARCJET_ENV: ${ARCJET_ENV:-development}
+    volumes:
+      - ./src:/app/src
+      - ./logs:/app/logs
+      - /app/node_modules
+    depends_on:
+      - neon-local
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

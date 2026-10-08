@@ -48,3 +48,431 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [07/Oct/2026:15:38:18 +0000] \"POST /signup HTTP/1.1\" 404 146 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-07T15:38:18.289Z"}
 {"level":"info","message":"User signed up: ttest@example.com","service":"aquisitions-api","timestamp":"2026-10-07T15:39:02.212Z"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [07/Oct/2026:15:39:02 +0000] \"POST /api/auth/signup HTTP/1.1\" 201 79 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-07T15:39:02.215Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:39:31 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.9444\"","service":"aquisitions-api","timestamp":"2026-10-08T11:39:31.944Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:10.172Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:12.166Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:13.506Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:13.701Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:13.817Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.090Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.244Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.308Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.582Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.709Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.829Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:14.946Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.104Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.252Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.389Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.530Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.683Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.825Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:15.967Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:16.140Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:16.486Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:16.660Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:16.808Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:16.987Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.154Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.277Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.427Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.583Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.762Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:17.901Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:19 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:19.865Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.033Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.173Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.333Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.509Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.615Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:20 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:20.907Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.133Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.260Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.419Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.571Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.741Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:21.898Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:40:22 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:40:22.074Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:08 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:08.487Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:08 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:08.646Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:08 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:08.825Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:08 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:08.970Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.103Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.248Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.393Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.548Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.693Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:09.837Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.131Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.283Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.498Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.634Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.787Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:10.955Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.108Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.278Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.457Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.611Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.763Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:11 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:11.967Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.088Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.267Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.428Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.600Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.756Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:12 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:12.945Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.102Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.288Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.447Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.608Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.784Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:13.959Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.119Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.279Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.421Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.584Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.745Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:14 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:14.898Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.085Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.222Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.379Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.527Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.677Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:15 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:15.871Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:16.154Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:16.316Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:16.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:16.757Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:16.926Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.085Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.255Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.407Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.727Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.801Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:17 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:17.903Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:18.162Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:18.322Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:18.504Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:18.669Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:18.919Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:41 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:41.975Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.215Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.364Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.653Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.776Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:42.950Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:43.122Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:43.224Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:43.408Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:43.705Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:43.753Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:44 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:44.122Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:44 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:44.209Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:44 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:44.307Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:44 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:44.511Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:44 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:44.773Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:45 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:45.104Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:45 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:45.250Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:45 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:45.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:45 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:45.802Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:46 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:46.111Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:46 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:46.230Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:41:52 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:52.775Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:53 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:53.894Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.081Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.174Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.259Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.381Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.482Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.609Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.749Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.812Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.885Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:54.991Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.084Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.181Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.281Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.364Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.476Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.653Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.711Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.889Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:55 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:55.923Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.054Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.100Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.207Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.328Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.415Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.498Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.580Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.704Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.767Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.854Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:56.956Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.046Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.139Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.248Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.346Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.548Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.646Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.745Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.848Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:57 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:57.956Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.065Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.163Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.277Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.368Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.476Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.570Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.678Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.761Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.868Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:58.971Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.040Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.160Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.310Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.378Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.516Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.611Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.723Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.865Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.903Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:41:59 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:41:59.960Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.092Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.124Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.160Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.196Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.234Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"curl/8.21.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:33.277Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.732Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.751Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.764Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.773Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.782Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:42:42 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:42:42.792Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:43:03 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.180Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:11:43:03 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"node\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.284Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.409Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.524Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.631Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:03.729Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:10.691Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:10.750Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:10.795Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:15.717Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:15.758Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:15.801Z"}
+{"level":"warn","message":"Access denied for ::1: Bot detected","service":"aquisitions-api","timestamp":"2026-10-08T11:43:15.844Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:43:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:21.644Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:43:22 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:22.402Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:22.665Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:22.873Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.194Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.313Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.455Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.606Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.723Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:23.898Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.028Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.104Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.371Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.494Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.720Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:24.906Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:43:25 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:25.182Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:43:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.467Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.473Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:43:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.477Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.493Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.686Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.801Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:54.950Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.218Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.230Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.415Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.536Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.857Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:55.859Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.040Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.158Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.335Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.517Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.682Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.830Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:56.982Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:57.140Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.027Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.031Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.032Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.036Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.095Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.284Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.511Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.582Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:58.962Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.275Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.450Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.746Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.762Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.934Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:43:59.980Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:00 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.298Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:00 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.408Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.465Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.614Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.743Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:00.933Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.125Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.250Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.443Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.592Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.782Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:01.950Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:02.130Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:02.281Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:08 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:08.476Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:09 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:09.500Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:09.699Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:09.913Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:10.294Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:10.368Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:10.406Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:10.674Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:10.882Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:12.994Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.304Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.381Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.501Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.619Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.777Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:13.958Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:14.086Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:14.245Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:15.587Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [08/Oct/2026:11:44:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"insomnia/13.1.0\"","service":"aquisitions-api","timestamp":"2026-10-08T11:44:16.828Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:17.214Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:17.870Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:18.078Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:127.0.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T11:44:18.229Z"}
+{"level":"info","message":"Hello from the acquisitions microservice","service":"aquisitions-api","timestamp":"2026-10-08T12:06:58.864Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:06:58 +0000] \"GET / HTTP/1.1\" 200 40 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:06:58.887Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:06:59 +0000] \"GET /api HTTP/1.1\" 200 107 \"-\" \"Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:06:59.351Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:00.927Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:01.790Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:02.496Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:03.006Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:04.378Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:04.846Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:05.623Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:06.837Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:21 +0000] \"GET /api HTTP/1.1\" 200 107 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.339Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:21 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.474Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.570Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.667Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.773Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.874Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:21.986Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.098Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.271Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.367Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.489Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.603Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:22.700Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.393Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.515Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.622Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.736Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.833Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:23.925Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:24.037Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:43 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:43.442Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:43 +0000] \"GET /api?id=test-user-001&ipaddress=97.145.156.56&_=1304044543676 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:43.545Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:44.629Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:44.721Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:46.822Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:50 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:50.944Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:51 +0000] \"GET /api?id=test-user-001&ipaddress=196.210.252.5&_=1818509867708 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:51.159Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:52.126Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:52.227Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:54 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:54.323Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:54 +0000] \"GET /api?id=test-user-001&ipaddress=67.128.12.177&_=1119612788847 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:54.427Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:55.889Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:56.005Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:07:58 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:07:58.099Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:58.191Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:07:58.300Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:00 +0000] \"GET /api?id=test-user-001&ipaddress=108.66.246.48&_=1135514930834 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:00.559Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:02 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:02.593Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:02.720Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:02.832Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:04.929Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:09 +0000] \"GET /api?id=test-user-001&ipaddress=46.242.187.87&_=1001677063198 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:09.024Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:10 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:10.541Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:10.677Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:10.789Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:12.908Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:17 +0000] \"GET /api?id=test-user-001&ipaddress=216.118.1.5&_=1662245512464 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:17.077Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:18 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:18.844Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:19.003Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:19.199Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:21.618Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:25 +0000] \"GET /api?id=test-user-001&ipaddress=183.86.23.125&_=1370574483574 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:25.745Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:26 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (iPad; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:26.771Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:26.857Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:26.968Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:29.060Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:33 +0000] \"GET /api?id=test-user-001&ipaddress=128.70.59.213&_=1288714544495 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (iPad; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:33.167Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:33 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:33.918Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:34.051Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:34.154Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:36 +0000] \"GET /api?id=test-user-001&ipaddress=74.137.215.105&_=1763553830949 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:36.260Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:37 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:37.142Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:37.275Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:37.431Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:08:39.540Z"}
+{"level":"info","message":"::1 - - [08/Oct/2026:12:08:44 +0000] \"GET /api?id=test-user-001&ipaddress=198.139.155.99&_=1835373049735 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:08:44.906Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:47 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:47.511Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:47 +0000] \"GET /api?id=test-user-001&ipaddress=215.109.56.68&_=1831484484730 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:47.733Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:49 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:49.622Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:49.771Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:49.911Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:52 +0000] \"GET /api?id=test-user-001&ipaddress=89.5.171.26&_=1906443588705 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:52.062Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:53 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:53.520Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:53.654Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:53.800Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:55 +0000] \"GET /api?id=test-user-001&ipaddress=144.113.61.99&_=1057735559406 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:55.932Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:28:56 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:28:56.734Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:56.877Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:57.001Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:28:59.135Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:03 +0000] \"GET /api?id=test-user-001&ipaddress=96.171.233.86&_=1131000437136 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:03.269Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:04 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:04.412Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:04.554Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:04.837Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:06.989Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:11 +0000] \"GET /api?id=test-user-001&ipaddress=78.219.136.109&_=1077727727981 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:11.266Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:13 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:13.016Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:13.137Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:13.420Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:15 +0000] \"GET /api?id=test-user-001&ipaddress=73.237.248.50&_=1669233318054 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:15.700Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:16 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:16.828Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:16.952Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:17.101Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:19.230Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:23 +0000] \"GET /api?id=test-user-001&ipaddress=37.196.120.89&_=1145965597314 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:23.369Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:24 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:24.835Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:24.979Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:25.150Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:27.422Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:31 +0000] \"GET /api?id=test-user-001&ipaddress=66.53.14.249&_=1259856914057 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:31.566Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:32 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:32.885Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:33.008Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:33.135Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:35 +0000] \"GET /api?id=test-user-001&ipaddress=110.124.195.203&_=1916761514172 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:35.428Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:36 +0000] \"GET /health HTTP/1.1\" 200 103 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:36.874Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:37.023Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:37.149Z"}
+{"level":"warn","message":"Rate limit exceeded for IP ::ffff:172.21.0.1 (Role: guest)","service":"aquisitions-api","timestamp":"2026-10-08T12:29:39.290Z"}
+{"level":"info","message":"::ffff:172.21.0.1 - - [08/Oct/2026:12:29:43 +0000] \"GET /api?id=test-user-001&ipaddress=4.197.242.210&_=1245683678717 HTTP/1.1\" 200 107 \"http://localhost:3001/health\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"","service":"aquisitions-api","timestamp":"2026-10-08T12:29:43.428Z"}

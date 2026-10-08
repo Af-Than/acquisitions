@@ -1,0 +1,32 @@
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: acquisitions-app-prod
+    restart: always
+    ports:
+      - "${PORT:-3001}:3001"
+    environment:
+      NODE_ENV: production
+      PORT: 3001
+      NEON_LOCAL: "false"
+      # Direct connection to Neon Cloud Serverless Database
+      DATABASE_URL: ${DATABASE_URL}
+      JWT_SECRET: ${JWT_SECRET}
+      ARCJET_KEY: ${ARCJET_KEY}
+      ARCJET_ENV: production
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - prod-network
+
+networks:
+  prod-network:
+    driver: bridge

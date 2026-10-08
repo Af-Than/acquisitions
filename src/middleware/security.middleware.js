@@ -1,5 +1,6 @@
 import aj from "../config/arcjet.js";
-import logger from "../config/logger.js"; // Ensure logger is imported
+import logger from "../config/logger..js";
+import { slidingWindow } from "@arcjet/node";
 
 export const securityMiddleware = async (req, res, next) => {
   try {
@@ -18,17 +19,17 @@ export const securityMiddleware = async (req, res, next) => {
     }
 
     // Create custom rate limit rule dynamically per role
-    const client = aj.withRules([
-      aj.rules.slidingWindow({
+    const client = aj.withRule(
+      slidingWindow({
         mode: "LIVE",
         interval: "2s",
         max: limit,
         name: `slidingWindow_${role}`,
       }),
-    ]);
+    );
 
     // Pass the request object to Arcjet for decision evaluation
-    const decision = await client.protect(req);
+    const decision = await client.protect(req, { ipSrc: req.ip });
 
     // 1. Handle Denials (invoke isDenied as a method)
     if (decision.isDenied()) {
@@ -52,6 +53,11 @@ export const securityMiddleware = async (req, res, next) => {
 
       // Generic denial fallback
       return res.status(403).json({ message: "Access denied by security policy" });
+    }
+
+    if (decision.conclusion !== "ALLOW") {
+      logger.error(`Arcjet protection failed for ${req.ip}: ${decision.conclusion}`);
+      return res.status(503).json({ message: "Security service unavailable" });
     }
 
     // 2. If allowed, pass control to the next middleware or route handler
