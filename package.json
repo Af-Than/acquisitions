@@ -46,8 +46,9 @@
     "prettier": "^3.9.9"
   },
   "dependencies": {
+    "@arcjet/inspect": "^1.14.1",
+    "@arcjet/node": "^1.14.1",
     "@neondatabase/serverless": "^1.1.0",
-    "bcryptjs": "^3.0.2",
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",

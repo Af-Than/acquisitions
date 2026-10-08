@@ -32,7 +32,7 @@ export const signup = async (req, res, next) => {
             email: normalizedEmail,
             password: hashedPassword,
             role,
-        }).returning({ id: users.id, name: users.name, email: users.email, role: users.role });
+        }).returning({ id: users.id, name: users.name, email: users.email, role: users.role });//we do returning because we want to get the inserted user data back after the insert operation. The returning method allows us to specify which columns we want to retrieve from the newly inserted row(s). In this case, we are returning the id, name, email, and role of the newly created user. This is useful because we can then use this information to generate a JWT token and send it back to the client along with the user data.
 
         const token = jwttoken.sign({ id: user.id, email: user.email, role: user.role });
         cookies.set(res, 'auth_token', token);
