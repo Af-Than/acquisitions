@@ -21,10 +21,15 @@ app.get('/', (req, res) => {
 });
 
 app.use('/api/auth', (await import('#routes/auth.routes.js')).default);
+app.use('/api/users', (await import('#routes/users.routes.js')).default);
 app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok', message: 'acquisitions microservice is healthy', timestamp: new Date() });
 });
 
+
+app.use((req,res)=>{
+  res.status(404).json({ status: 'error', message: 'Route not found', timestamp: new Date() });
+})
 app.get('/api', (req, res) => {
   res.status(200).json({ status: 'ok', message: 'acquisitions microservice API is working', timestamp: new Date() });
 });

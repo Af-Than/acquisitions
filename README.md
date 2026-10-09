@@ -252,3 +252,30 @@ npm run lint
 ```
 
 Keep database credentials, JWT secrets, Arcjet keys, and Docker Hub tokens in environment variables or GitHub Actions secrets. Never commit them to the repository.
+
+
+[Incoming Request]
+       │
+       ▼
+1. Express Global Middlewares (app.js)
+   (Helmet, Arcjet Security, CORS, express.json(), cookieParser())
+       │
+       ▼
+2. routes.use(authenticate) (auth.middleware.js)
+   Extract token ➔ jwttoken.verify() ➔ req.user = { id: 1, email: "admin@test.com", role: "admin" }
+       │
+       ▼
+3. routes.post("/", authorize("admin"), ...) (auth.middleware.js)
+   Checks: req.user.role === 'admin' ➔ Passes!
+       │
+       ▼
+4. createUserHandler (user.controller.js)
+   Zod safeParse() validates body schema (name, valid email, password min 6)
+       │
+       ▼
+5. createUser (user.service.js)
+   Check email uniqueness ➔ bcrypt.hash(password, 12) ➔ INSERT INTO users table
+       │
+       ▼
+6. Response Sent Back to Admin
+   201 Created with safe user object (id, name, email, role, createdAt)
